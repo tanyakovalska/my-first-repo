@@ -1,1 +1,1 @@
-Hello
+Hello, World! I`m Tetiana, an architect and I hate this program. Pls, helm me if you read this!!!
